@@ -10,3 +10,6 @@ Página de referência vscode
 Página de referência sqlitebrowser
     https://github.com/sqlitebrowser
 SQL é uma linguagem de domínio específico desenvolvida para gerenciar dados relacionais em um sistema de gerenciamento de banco de dados, ou para processamento de fluxo de dados em um sistema de gerenciamento de fluxo de dados.
+Nome da Disciplina: Desenvolvimento Web
+Periodo:1° Périodo
+Ano:2024
