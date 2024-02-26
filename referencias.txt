@@ -1,0 +1,12 @@
+Página de referência python
+    https://github.com/python
+    Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
+Página de referência git
+    https://github.com/git
+Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Página de referência vscode
+    https://github.com/microsoft/vscode
+    O vscode é um editor de código-fonte inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+Página de referência sqlitebrowser
+    https://github.com/sqlitebrowser
+SQL é uma linguagem de domínio específico desenvolvida para gerenciar dados relacionais em um sistema de gerenciamento de banco de dados, ou para processamento de fluxo de dados em um sistema de gerenciamento de fluxo de dados.
